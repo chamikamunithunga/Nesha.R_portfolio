@@ -21,3 +21,16 @@ Nesha .r is a modern, responsive model portfolio built with React.js and CSS. Th
 - 
 - **CSS Styling:** Custom CSS for a sleek and professional appearance.
 
+- Usage
+- -------
+
+Home Page: The landing page with a captivating hero section, featuring a prominent image and introductory text.
+
+Portfolio Gallery: A section displaying the model's best work, with easy-to-navigate categories.
+
+About Section: Information about the model, including background, experience, and contact details.
+
+Contact Form: A simple form for visitors to get in touch with the model directly.
+
+
+
