@@ -5,5 +5,19 @@
 
 # Getting Started with Create React App for model portfolio (Nesha.R)
 
+# Nesha .r - Model Portfolio
 
+Nesha .r is a modern, responsive model portfolio built with React.js and CSS. This project showcases a user-friendly interface, easy navigation, and stunning visuals, making it perfect for models to display their work professionally.
+
+## Features
+
+- **Responsive Design:** Optimized for all devices, ensuring a seamless experience on desktops, tablets, and mobile phones.
+- 
+- **User-Friendly Interface:** Simple and intuitive navigation, making it easy for visitors to explore the portfolio.
+- 
+- **Visual Appeal:** High-quality images and elegant design elements highlight the model's work effectively.
+- 
+- **React.js:** Leveraging the power of React.js for dynamic rendering and efficient performance.
+- 
+- **CSS Styling:** Custom CSS for a sleek and professional appearance.
 
