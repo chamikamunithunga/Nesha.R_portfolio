@@ -32,5 +32,11 @@ About Section: Information about the model, including background, experience, an
 
 Contact Form: A simple form for visitors to get in touch with the model directly.
 
+Acknowledgments
+----------------
+Thanks to the React.js community for their excellent resources and support.
+
+Special thanks to the designers and photographers whose work inspired the portfolio's visuals.
+
 
 
